@@ -1,0 +1,274 @@
+{
+    "conversation_list": [
+      {
+        "contactName": "Alice",
+        "lastMessage": "Dammi 5 minuti e scendo",
+        "lastTime": "13:08",
+        "image": "alice.jpg",
+        "if_group":false,
+        "group_name":"",
+        "messageHistory": [
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "Buongiorno Alice :)",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:13:01",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Alice",
+            "from_avatar":"alice.jpg",
+            "message": "Ciao Bob! Come va?",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:16:09",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "Bene Grazie. Ora sto andando in pausa",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:16:55",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Alice",
+            "from_avatar":"alice.jpg",
+            "message": "Beato te! Io sono ancora in alto mare col lavoro :(",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:17:32",
+            "message_type": "text",
+            "is_replay":true,
+            "replay_message": "Bob: Bene Grazie. Ora sto andando in pausa"
+          },
+          {
+            "me": false ,
+            "from_name":"Alice",
+            "from_avatar":"alice.jpg",
+            "message": "Guarda quanto ne ho ancora!",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:18:00",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Alice",
+            "from_avatar":"alice.jpg",
+            "message": "/mobile/Chat/Images/Received/20211111_01.jpg",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:18:51",
+            "message_type": "image",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "Ci raggiungi per il caffè?",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"13:06:40",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Alice",
+            "from_avatar":"alice.jpg",
+            "message": "Volentieri",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"13:07:32",
+            "message_type": "text",
+            "is_replay":true,
+            "replay_message": "Bob: Ci raggiungi per il caffè?"
+          },
+          {
+            "me": false ,
+            "from_name":"Alice",
+            "from_avatar":"alice.jpg",
+            "message": "Dammi 5 minuti e scendo",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"13:08:07",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          }
+        ]
+      },
+        {
+        "contactName": "Frank",
+        "lastMessage": "Tu: Arrivo! Sto scendendo",
+        "lastTime": "12:24",
+        "image": "frank.jpg",
+        "if_group":false,
+        "group_name":"",
+        "messageHistory": [
+          {
+            "me": false ,
+            "from_name":"Frank",
+            "from_avatar":"frank.jpg",
+            "message": "Ehi! Io sono giù, sbrigati che ho fame!",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:23:43",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "Arrivo! Sto scendendo",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:24:31",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          }
+        ]
+      },
+        {
+        "contactName": "Fantacalcio",
+        "lastMessage": "Tu: image",
+        "lastTime": "12:47",
+        "image": "fantacalcio.jpg",
+        "if_group":true,
+        "group_name":"Tu, Dylan, Charles, Frank",
+        "messageHistory": [
+          {
+            "me": false ,
+            "from_name":"Charles",
+            "from_avatar":"charles.jpg",
+            "message": "Buongiorno! Mi raccomando le formazioni per oggi!",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:25:46",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Dylan",
+            "from_avatar":"dylan.jpg",
+            "message": "/mobile/Chat/Audio/Received/20211111_01.mp3",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:28:24",
+            "message_type": "audio",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Frank",
+            "from_avatar":"frank.jpg",
+            "message": "Oddio! Me ne stavo dimenticando!",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:33:22",
+            "message_type": "text",
+            "is_replay":true,
+            "replay_message": "Dylan: /mobile/Chat/Audio/Received/20211111_01.mp3"
+          },
+          {
+            "me": false ,
+            "from_name":"Frank",
+            "from_avatar":"frank.jpg",
+            "message": "/mobile/Chat/Gifs/b27d7d8e40aae28a.gif",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:34:20",
+            "message_type": "gif",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "Buon appetito :)",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:46:32",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "/mobile/Chat/Images/Sent/20211111_01.jpg",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:47:10",
+            "message_type": "image",
+            "is_replay":false,
+            "replay_message": ""
+          }
+        ]
+      }, {
+        "contactName": "Teletubbies",
+        "lastMessage": "Charles: Ahahahah :D",
+        "lastTime": "12:45",
+        "image": "Teletubbies.jpg",
+        "if_group":true,
+        "group_name":"Tu, Alice, Charles",
+        "messageHistory": [
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "Guardate questo video :D",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:36:13",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": true ,
+            "from_name":"Bob",
+            "from_avatar":"bob.jpg",
+            "message": "/mobile/Chat/Videos/Sent/20211111_01.mp4",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:36:56",
+            "message_type": "video",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Charles",
+            "from_avatar":"charles.jpg",
+            "message": "Ahahahah :D",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:45:51",
+            "message_type": "text",
+            "is_replay":false,
+            "replay_message": ""
+          },
+          {
+            "me": false ,
+            "from_name":"Frank",
+            "from_avatar":"frank.jpg",
+            "message": "/mobile/Chat/Gifs/b27d7d8e40aae28a.gif",
+            "message_day":"11 Gennaio 2023",
+            "message_Time":"12:34:20",
+            "message_type": "gif",
+            "is_replay":false,
+            "replay_message": ""
+          }
+        ]
+      }
+    ]
+  }

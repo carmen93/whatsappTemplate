@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Segoe UI, Helvetica Neue, Helvetica, Lucida Grande, Arial, Ubuntu, Cantarell, Fira Sans, sans-serif;
+  font-size: 16px;
+  background: #0a1014;
+}
+
+input:focus {
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111B21;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #374045;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.replayMess {
+  background-color: #333;
+  border-left: 2px solid red;
+
+}
+
+.placeholder {
+  background-image: url(../../public/assets/images/Placeholder.png);
+  height: 200px;
+  width: auto;
+  background-position: center;
+  background-size: cover;
+  margin: 10px 0;
+  border-radius: 25px;
+}
+
+.placeholderVideo {
+  background-image: url(../../public/assets/images/video-placeholder.jpg);
+  height: 200px;
+  width: auto;
+  background-position: center;
+  background-size: cover;
+  margin: 10px 0;
+  border-radius: 25px;
+}
+
+.placeholderAudio {
+  background-image: url(../../public/assets/images/Audio-Record-Placeholder.png);
+  height: 200px;
+  width: auto;
+  background-position: center;
+  background-size: cover;
+  margin: 10px 0;
+  border-radius: 25px;
+}
